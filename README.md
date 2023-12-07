@@ -1,0 +1,2 @@
+# love-local-assignment
+ 
