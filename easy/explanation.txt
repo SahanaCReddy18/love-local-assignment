@@ -1,0 +1,3 @@
+The code defines a function to find the length of the last word in a string. 
+It takes user input, applies the function, and prints the result. 
+The function considers words as substrings separated by whitespace and handles the case where the input string might be empty or contain only whitespaces.

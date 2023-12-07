@@ -1,0 +1,21 @@
+1.Function Definition:
+Define a function length_of_last_word that takes a string s as input.
+
+2.Splitting the String:
+Use the split() method to split the input string s into a list of words. The split() method separates the string into words based on whitespace.
+
+3.Check for Non-empty List:
+Check if the list of words (words) is non-empty using if words:.
+
+4.Return Length of Last Word:
+If the list of words is non-empty, return the length of the last word in the list (len(words[-1])).
+If the list is empty, return 0.
+
+5.User Input:
+Take user input for a string using input("Enter a string: ").
+
+6.Function Invocation:
+Invoke the length_of_last_word function with the user input as an argument to get the result.
+
+7.Print Result:
+Print the result, indicating the length of the last word in the entered string.

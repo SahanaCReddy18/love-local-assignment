@@ -1,0 +1,10 @@
+The code constructs a Binary Search Tree (BST) from user-input values.
+And then finds and prints the Lowest Common Ancestor (LCA) of two specified nodes (p and q) in the tree. 
+The TreeNode class defines the structure of a tree node, and the buildBST and insertIntoBST functions handle the construction of the BST.
+The lowestCommonAncestor function efficiently finds the LCA in the constructed BST.
+
+
+
+
+
+

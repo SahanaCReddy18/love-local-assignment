@@ -1,0 +1,4 @@
+The code defines a function countDigitOne to calculate the total occurrences of the digit 1 in numbers up to a given value n.
+It utilizes a loop to iterate through the digits of the numbers and employs a formula to update the count.
+The user is prompted to input the value of n, and the result is printed, indicating the total number of digit 1 occurrences. 
+The algorithm is designed to efficiently count the digit 1 occurrences in a range of numbers.
